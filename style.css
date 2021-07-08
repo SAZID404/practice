@@ -1,3 +1,45 @@
-body{
-    
+.first{
+    display:flex;
+  font-size: 20px;
+  background-color: rgb(119, 119, 56);
+  margin-bottom: 5%;
+}
+h1{
+    text-align: center;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+.c{
+    color: rgb(248, 59, 11);
+}
+.half-width p{
+    padding-right: 2%;
+    margin-left: 2%;
+}
+.click{
+    background-image: linear-gradient(rgb(204, 31, 31),black);
+    text-decoration: none;
+    padding: 2%;
+    margin:2% ;
+    border-radius: 5%;
+    color: rgb(69, 9, 231);
+    font-weight: 700;
+}
+.second{
+    display: flex;
+    background-color: rgb(14, 143, 175);
+}
+.full{
+    width: 50%;
+}
+.full p{
+    font-size: 20px;
+
+}
+.full img{
+    width: 80%;
 }
